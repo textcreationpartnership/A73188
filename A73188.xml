@@ -1,0 +1,428 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A merry new song of a rich widdowes wooing that married a young man to her owne vndooing. To the tune of, Stand thy ground old Harry.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1625</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73188</idno>
+            <idno type="STC">STC 22919.1</idno>
+            <idno type="STC">ESTC S124612</idno>
+            <idno type="EEBO-CITATION">99899075</idno>
+            <idno type="PROQUEST">99899075</idno>
+            <idno type="VID">150757</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73188)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150757)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1978:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A merry new song of a rich widdowes wooing that married a young man to her owne vndooing. To the tune of, Stand thy ground old Harry.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>[by M. Flesher] for T. Langley,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[ca. 1625]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name and date of publication from STC.</note>
+                  <note>Verse - "I am so sicke for loue,".</note>
+                  <note>In two parts, printed side by side.</note>
+                  <note>Reproduction of original in the Pepysian Library, Magdalene College, Cambridge, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:150757:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <head>
+               <l>A merry new Song of a rich Widdowes wooing,</l>
+               <l>That married a young man to her owne vndooing.</l>
+            </head>
+            <opener>To the tune of, <hi>Stand thy ground old Harry.</hi>
+            </opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>
+                     <hi>I</hi> Am ſo ſicke for loue,</l>
+                  <l>as like was neuer no man,</l>
+                  <l>Which makes me cry,</l>
+                  <l>With a loue-ſicke eye,</l>
+                  <lg type="ballad">
+                     <l>
+                        <hi>Haue at thy coat old woman:</hi>
+                     </l>
+                     <l>
+                        <hi>Haue at thy coat old woman,</hi>
+                     </l>
+                     <l>
+                        <hi>Heere and there, and euery where,</hi>
+                     </l>
+                     <l>
+                        <hi>Haue at thy coat old woman.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>I may haue maidens young,</l>
+                  <l>and luſty gallants plenty:</l>
+                  <l>Yet will I be</l>
+                  <l>As true to thée,</l>
+                  <l>as if thou wert but twenty.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Haue at thy coat old woman,</hi>
+                     </l>
+                     <l>
+                        <hi>Haue at thy coat old woman:</hi>
+                     </l>
+                     <l>
+                        <hi>Here and there, and euery where,</hi>
+                     </l>
+                     <l>
+                        <hi>Haue at thy coat old woman.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Ile till thy paſture ground,</l>
+                  <l>and mow thy pleaſant meddow:</l>
+                  <l>My mother me told,</l>
+                  <l>I muſt be bold</l>
+                  <l>in wooing of a Widdow.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Haue at thy coat old woman,</hi>
+                     </l>
+                     <l>
+                        <hi>Haue at thy coat old woman:</hi>
+                     </l>
+                     <l>
+                        <hi>Here and there, and euery where,</hi>
+                     </l>
+                     <l>
+                        <hi>Haue at thy coat old woman.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Ile giue thée all thoſe ioyes</l>
+                  <l>a young man may afford thée:</l>
+                  <l>And ride each day</l>
+                  <l>With thée any way,</l>
+                  <l>and brauely will maintaine thée,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>
+                           <gap reason="illegible: missing" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ue at thy coat, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>This pleaſ'd the widdow well,</l>
+                  <l>and her old bloud reuiued,</l>
+                  <l>To heare his noate,</l>
+                  <l>Still haue at thy coat,</l>
+                  <l>'twould make at old wench long-liued.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Haue at thy coat old woman,</hi>
+                     </l>
+                     <l>
+                        <hi>Haue at thy coat old woman:</hi>
+                     </l>
+                     <l>
+                        <hi>Here and there, and euery where,</hi>
+                     </l>
+                     <l>
+                        <hi>Haue at thy coat old woman.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Old Rat ſhe lou'd good chéeſe,</l>
+                  <l>and thereupon would nibble,</l>
+                  <l>And dance a round</l>
+                  <l>To heare the ſound</l>
+                  <l>and muſicke of his fiddle.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Haue at thy coat old woman,</hi>
+                     </l>
+                     <l>
+                        <hi>Haue at thy coat old woman:</hi>
+                     </l>
+                     <l>
+                        <hi>Here and there, and euery where,</hi>
+                     </l>
+                     <l>
+                        <hi>Haue at thy coat old woman.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>To an old womans heart</l>
+                  <l>no greater comfort may be,</l>
+                  <l>Then to liue in delight,</l>
+                  <l>And marry a Knight,</l>
+                  <l>and to be made a Lady.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Haue at thy coat old woman,</hi>
+                     </l>
+                     <l>
+                        <hi>Haue at thy coat old woman:</hi>
+                     </l>
+                     <l>
+                        <hi>Here and there, and euery where,</hi>
+                     </l>
+                     <l>
+                        <hi>Haue at thy coat old woman.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>The Moone ſcarce changed thrice,</l>
+                  <l>ere this old Laſſe did marry:</l>
+                  <l>But all her ſport</l>
+                  <l>Was quicke and ſhort,</l>
+                  <l>and did full ſoone miſcarry.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Haue at thy coat, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The Second part.</head>
+               <opener>To the ſame Tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>IN Gold and Siluer-lace,</l>
+                  <l>and pipes of ſmoaking <hi>Fogus,</hi>
+                  </l>
+                  <l>Then euery day</l>
+                  <l>He ſpent her away</l>
+                  <l>in gold a braue <hi>Iacobus.</hi>
+                  </l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Haue at thy coat old woman,</hi>
+                     </l>
+                     <l>
+                        <hi>Haue at thy coat old woman:</hi>
+                     </l>
+                     <l>
+                        <hi>Here and there, and euery where,</hi>
+                     </l>
+                     <l>
+                        <hi>Haue at thy coat old woman.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>He made her Reddockes flye,</l>
+                  <l>and her old bags to ratlte:</l>
+                  <l>It was charge to kéepe</l>
+                  <l>So many ſhéepe,</l>
+                  <l>and heards of horned Cattle.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Haue at thy coat old woman,</hi>
+                     </l>
+                     <l>
+                        <hi>Haue at thy coat old woman:</hi>
+                     </l>
+                     <l>
+                        <hi>Here and there, and euery where,</hi>
+                     </l>
+                     <l>
+                        <hi>Haue at thy coat old woman.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>An hundred of good Oakes</l>
+                  <l>he ſold to buy a Hobby,</l>
+                  <l>Abroad for to ride</l>
+                  <l>In pompe and pride,</l>
+                  <l>while ſhe ſate like a noddy.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Haue at thy coat, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Her comply coat of woollen,</l>
+                  <l>he chang'd into fine Satten:</l>
+                  <l>Yet in a wéeke</l>
+                  <l>She was to ſéeke,</l>
+                  <l>and beg her bread by Patten.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Haue at thy coat, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Her houſe moſt richly ſtored</l>
+                  <l>whereof he made not dainty:</l>
+                  <l>But in a day</l>
+                  <l>He conſum'd away</l>
+                  <l>what ſhe had got in twenty.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Haue at thy coat, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>He cheriſht her mumbling gums,</l>
+                  <l>with food as they had néede on:</l>
+                  <l>For want of her téeth,</l>
+                  <l>He gaue her Bull-béefe,</l>
+                  <l>but once a wéeke to féede on.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Haue at thy coat, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>When ſhe had liued two moneths,</l>
+                  <l>this luſty youngmans purchaſe,</l>
+                  <l>With kindneſſe thus kild,</l>
+                  <l>Her coffin he fild</l>
+                  <l>with her conſumed carkaſſe.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Haue at thy coat old woman,</hi>
+                     </l>
+                     <l>
+                        <hi>Haue at thy coat old woman:</hi>
+                     </l>
+                     <l>
+                        <hi>Heere and there, and euery where,</hi>
+                     </l>
+                     <l>
+                        <hi>Haue at thy coat old woman.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>¶Old women take good héede,</l>
+                  <l>and truſt your ſelues with no man:</l>
+                  <l>For as you doe heare,</l>
+                  <l>She hath paid full deare,</l>
+                  <l>for Haue at thy coat old woman.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Haue at thy coat old woman,</hi>
+                     </l>
+                     <l>
+                        <hi>Haue at thy coat old woman:</hi>
+                     </l>
+                     <l>
+                        <hi>Here and there, and euery where,</hi>
+                     </l>
+                     <l>
+                        <hi>Haue at thy coat old woman.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London for T. Langley.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
